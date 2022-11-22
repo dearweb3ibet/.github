@@ -1,4 +1,4 @@
-# dearweb3ibet
+# 🤞 dearweb3ibet
 
 *Let's move from words to bets on the blockchain!*
 
