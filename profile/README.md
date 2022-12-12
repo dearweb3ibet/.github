@@ -10,6 +10,10 @@ Smart contract takes a part of the winnings of all bets and **share it randomly 
 
 Also bets generate a very useful datasets to **explore the trend of expectations and people's mood**. This analytics tool will be useful for anyone interested in blockchain and cryptocurrencies.
 
-### 🔗 Live Demo 
+### 🔗 Demo 
 
-https://dearweb3ibet-app.vercel.app/
+https://dearweb3ibet.space/
+
+### 🖌️ Design
+
+https://www.figma.com/file/eKP0wsD2U68fzrXS6q8mtF
